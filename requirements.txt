@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn[standard]==0.23.2
+pydantic==2.5.0
+openai==1.10.0
+pypdf==4.0.1
+python-dotenv==1.0.0
+redis==5.0.1
+structlog==23.2.0
+# LangChain will be added later
+# langchain==0.1.20
+# langchain-openai==0.1.6
